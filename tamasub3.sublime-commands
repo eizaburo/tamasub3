@@ -1,0 +1,12 @@
+[
+	{"caption":"tamasub3 set PDO_CREATE TABLE format", "command":"sql_createtable"},
+	{"caption":"tamasub3 set PDO_INSERT format", "command":"sql_insert"},
+	{"caption":"tamasub3 set PDO_UPDATE format", "command":"sql_update"},
+	{"caption":"tamasub3 set PHP_INIT Vars format", "command":"php_initvars"},
+	{"caption":"tamasub3 set PHP_GET Params format", "command":"php_getparams"},
+	{"caption":"tamasub3 set PHP_POST Params format", "command":"php_postparams"},
+	{"caption":"tamasub3 set PHP_GET_COOKIE Params format", "command":"php_getcookie"},
+	{"caption":"tamasub3 set PHP_SET_COOKIE Params format", "command":"php_setcookie"},
+	{"caption":"tamasub3 set PHP_FOREACH Params format", "command":"php_foreach"}
+
+]
